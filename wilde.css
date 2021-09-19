@@ -34,3 +34,20 @@
 .MORANZONE {
     color: teal;
 }
+
+table {
+    border: solid 3px brown;
+    width: 35%;
+    border-collapse: collapse;
+    margin: 5px;
+}
+
+th, td {
+    border: solid 1px;
+    text-align: center;
+    padding: 10px;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
