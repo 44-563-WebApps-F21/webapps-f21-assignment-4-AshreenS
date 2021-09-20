@@ -23,16 +23,32 @@
     color: black;
 }
 
-.GUIDO {
+.DUKE {
     color: maroon;
 }
 
-.ASCANIO {
+.MAFFIO {
     color: tomato;
 }
 
-.MORANZONE {
+.CARDINAL {
     color: teal;
+}
+
+.GUIDO {
+    color: blue;
+}
+
+.BARDI {
+    color: yellow;
+}
+
+.DUCHESS {
+    color:pink;
+}
+
+.SECOND CITIZEN {
+    color: grey;
 }
 
 table {
