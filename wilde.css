@@ -57,3 +57,22 @@ tr:nth-child(even) {
     border: solid 2px gainsboro;
 }
 
+
+ ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.navbar-horizontal li {
+    float:left;
+    background-color: darkviolet;
+}
+ul.navbar-horizontal a {
+    display:block;
+    padding:8px;
+    color: floralwhite;
+}
+ul.navbar-horizontal a:hover {
+    background-color: darkslateblue;
+    color:yellowgreen;
+}
